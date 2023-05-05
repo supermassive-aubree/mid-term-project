@@ -7,4 +7,5 @@ date:   2023-05-25 21:03:36 +0530
 2001년 4월 27일생입니다.
 스포츠 경기 관람을 좋아하며, 동물과 영화 감상 또한 좋아합니다.
 데이터 분석가를 지망합니다.
-- ![Image Alt 텍스트](/assets/puppy.jpgg)
+- ![Image Alt 텍스트](/assets/puppy.jpg)
+- ![Image Alt 텍스트](/assets/image1-modified.png)
